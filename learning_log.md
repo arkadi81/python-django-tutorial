@@ -1,6 +1,6 @@
 Learning log - Python + django
 
-* setup
+# setup
 
 - ideally get venv going
 - on windows: set up python (currently 3.18)
@@ -19,11 +19,11 @@ django-admin startproject
 //to run the site/server
 python manage.py runserver
 
-* conventions
+# conventions
 
 everything in django is a separate app (as in, each route is called an app etc)
 
-* creating apps and routes
+# creating apps and routes
 
 python manage.py startapp [app_name]
 
